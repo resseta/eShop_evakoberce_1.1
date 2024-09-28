@@ -1,0 +1,3 @@
+# Komment
+
+print('Hello World')
